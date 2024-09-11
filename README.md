@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunrayyourdev
 - 👀 I’m interested in Web Development, Machine Learning and Game Development
-- 🌱 I’m currently learning Python, Javascript and C#
+- 🌱 I’m currently learning Node.js, React and Flask
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: Discord (sunrayyourmom), onquitjake@gmail.com
 - 😄 Pronouns: he/him
