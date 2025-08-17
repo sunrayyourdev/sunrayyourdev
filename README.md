@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @sunrayyourdev
-- 👀 I’m interested in Full-stack Development, Artificial Intelligence and Cloud! 
-- 🌱 I’m currently learning Flask, React and Node.js
-- 💞️ I’m looking to collaborate on Github
+- 👀 I’m interested in Full-stack Development, Artificial Intelligence and Cloud Computing! 
+- 🌱 I’m currently learning FastAPI, Next.js and Node.js
 - 📫 How to reach me: Discord (sunrayyourmom), Email: onquitjake@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I peaked immortal in valorant :)
+- ⚡ Fun facts: My favourite movie is Your Name (2016) and I peaked Immortal II in valorant :)
 
 <!---
 sunrayyourdev/sunrayyourdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
