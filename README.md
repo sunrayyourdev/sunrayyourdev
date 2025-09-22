@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunrayyourdev
 - 👀 I’m interested in Full-stack Development, Artificial Intelligence and Cloud Computing! 
-- 🌱 I’m currently learning FastAPI, Next.js and Node.js
+- 🌱 I’m currently learning FastAPI, React and Node.js
 - 📫 How to reach me: Discord (sunrayyourmom), Email: onquitjake@gmail.com
 - ⚡ Fun facts: My favourite movie is Your Name (2016) and I peaked Immortal II in valorant :)
 
